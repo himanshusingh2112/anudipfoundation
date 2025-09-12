@@ -1,0 +1,75 @@
+.container{
+            margin: 0 200px;
+        }
+        .rectangle{
+            width: 2px;
+        }
+        .rectangle1{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle2{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(255, 252, 252);
+        }
+        .rectangle3{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle4{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(251, 249, 249);
+        }
+        .rectangle5{
+            
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle6{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(251, 249, 249);
+        }
+        .rectangle7{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle8{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(249, 249, 249);
+        }
+        .rectangle9{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle10{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(255, 253, 253);
+        }
+        .rectangle11{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        .rectangle12{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(255, 253, 253);
+        }
+        .rectangle13{
+            height: 60px;
+            width: 80px;
+            background-color: rgb(115, 57, 16);
+        }
+        table{
+            border: 3px solid rgb(115, 57, 16);
+        }
