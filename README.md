@@ -5,5 +5,5 @@
 ..................................................................................................................................................................
 
 <h1>Chess Board Output -</h1>
-<img width="1100" height="800" alt="Screenshot 2025-09-12 171454" src="https://github.com/user-attachments/assets/f96abbdb-3d7c-4902-9f84-ab77c5d101a9" />
+<img width="1000" height="800" alt="Screenshot 2025-09-12 171454" src="https://github.com/user-attachments/assets/f96abbdb-3d7c-4902-9f84-ab77c5d101a9" />
 
